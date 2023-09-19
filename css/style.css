@@ -20,8 +20,17 @@ ul {
     color: #2e2f42;
 }
 
-.navigation-link :hover :focus{
+address{
+    font-style: normal;
+}
+
+.navigation-link:hover {
     color: #404bbf;
+    font-weight: 500;
+}
+.navigation-link:focus{
+      color: #404bbf;
+    font-weight: 500;  
 }
 
 .logo {
