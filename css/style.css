@@ -27,11 +27,22 @@ address {
 
 .navigation-link:hover {
   color: #404bbf;
-  font-weight: 500;
 }
+
 .navigation-link:focus {
   color: #404bbf;
-  font-weight: 500;
+}
+
+.contact {
+  color: #2e2f42;
+}
+
+.contact:hover {
+  color: #404bbf;
+}
+
+.contact:focus {
+  color: #404bbf;
 }
 
 .logo {
@@ -53,7 +64,7 @@ address {
   color: #434455;
 }
 
-.contact{
+.contact {
   color: #404bbf;
 }
 
@@ -79,12 +90,12 @@ address {
   cursor: pointer;
 }
 
-.preview-btn:hover{
-    background-color: #404BBF;
+.preview-btn:hover {
+  background-color: #404bbf;
 }
 
-.preview-btn:focus{
-   background-color: #404BBF; 
+.preview-btn:focus {
+  background-color: #404bbf;
 }
 
 .descr > h3 {
