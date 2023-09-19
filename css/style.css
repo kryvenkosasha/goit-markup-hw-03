@@ -36,6 +36,7 @@ address {
 
 .contact {
   color: #434455;
+  letter-spacing: 0.02em
 }
 
 .contact:hover {
@@ -60,15 +61,6 @@ address {
   color: #2e2f42;
 }
 
-.contact {
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.contact {
-  color: #404bbf;
-}
-
 .preview {
   background-color: #2e2f42;
 }
@@ -82,7 +74,6 @@ address {
 }
 
 .preview-btn {
-  border-radius: 4px;
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
@@ -122,7 +113,6 @@ address {
 .team-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
